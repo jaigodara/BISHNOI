@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1001226124051",
+    "project_id": "bishnoi-platform",
+    "storage_bucket": "bishnoi-platform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001226124051:android:e9be8acc408da5cb24f8e6",
+        "android_client_info": {
+          "package_name": "in.bishnoism.bishnoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001226124051-hercg0peoje9e7kuk9grs7ugqb28e10n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.bishnoism.bishnoi",
+            "certificate_hash": "50b3f4a422d428837c4cdfeae89a014b7ad409e3"
+          }
+        },
+        {
+          "client_id": "1001226124051-euh0m6tm1da39secu9f3rnc2lkj30rhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIrAQXuW5IJ1iHAZdUAlOrOny9pRSlBQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001226124051-euh0m6tm1da39secu9f3rnc2lkj30rhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
